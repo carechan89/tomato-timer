@@ -11,6 +11,7 @@ The endgoal after basic functionality is to add a feature to time work and break
   - Or don't
   - 
 2.  Fork the repo
+  - Ignore the my-flask-app folder, just use the tomatotimer folder (I will eventually add it to an ignoreme file)
   - I'm not entirely sure how pip lock files work when you fork a repo so...sorry about that
   - But there is some info [here](https://pipenv-fork.readthedocs.io/en/latest/advanced.html) that I haven't read through yet
   - ~~If you figure it out, please just edit the README~~
