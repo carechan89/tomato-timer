@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tomato Timer HTML Templates</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+</head>
+<body>
+    <h1 style='text-align:center'>Tomato Timer</h1>
+    <br>
+    <h3 style='text-align:center'><a href="https://en.wikipedia.org/wiki/Pomodoro_Technique" target='_blank'>Learn about</a> how the Pomodoro Method works</h3>
+    <br><br>
+    <form style='text-align:center'>
+        <label>Enter work time</label>
+        <input type='number'>
+        <label>minutes</label><br><br>
+        <label>Enter break time</label>
+        <input type='number'>
+        <label>minutes</label><br><br>
+    </form>
+    <div style='text-align:center'>
+        <h1>Some large timer here</h1>
+        <br><br>
+        <button type='button'>Start</button>
+        <button type='button'>Pause</button>
+    </div>
+</body>
+</html>
