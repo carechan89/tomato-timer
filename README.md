@@ -7,10 +7,16 @@ A Pomodoro-style web app written with Python and Flask.
   has some path issues that make it difficult to set up and install
   - This guide will be written with this in mind but feel free to use whichever virtual environment you're comfortable with
   - Or don't
+  - 
 2.  Fork the repo
   - I'm not entirely sure how pip lock files work when you fork a repo so...sorry about that
   - But there is some info [here](https://pipenv-fork.readthedocs.io/en/latest/advanced.html) that I haven't read through yet
-  - If you figure it out, please just edit the README
+  - ~~If you figure it out, please just edit the README~~
+  - I *think* you can install everything by running
+    ```shellscript
+    pip -r requirements.txt
+    ```
+
 3. That's it, get coding!
 
 # running flask
