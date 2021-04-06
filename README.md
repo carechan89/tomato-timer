@@ -12,3 +12,14 @@ A Pomodoro-style web app written with Python and Flask.
   - But there is some info [here](https://pipenv-fork.readthedocs.io/en/latest/advanced.html) that I haven't read through yet
   - If you figure it out, please just edit the README
 3. That's it, get coding!
+
+# running flask
+```shellscript 
+$ export FLASK_APP=app.py
+$ export FLASK_ENV=development
+$ flask run
+```
+Follow the link given in the terminal (most likely [localhost:5000](localhost:5000))
+
+# other pertinent info
+I'm currently using [this guide](https://python-adv-web-apps.readthedocs.io/en/latest/flask_forms.html).
