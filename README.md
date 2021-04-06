@@ -14,7 +14,7 @@ A Pomodoro-style web app written with Python and Flask.
   - ~~If you figure it out, please just edit the README~~
   - I *think* you can install everything by running
     ```shellscript
-    pip -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 3. That's it, get coding!
