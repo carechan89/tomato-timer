@@ -1,5 +1,7 @@
 # tomato-timer
 A Pomodoro-style web app written with Python and Flask.
+<br><br>
+The endgoal after basic functionality is to add a feature to time work and break sessions with songs (from Spotify, Youtube, etc.)
 
 # startup
 1. Download some sort of virtual environment. 
